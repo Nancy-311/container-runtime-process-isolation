@@ -49,27 +49,25 @@ The project is designed for learning Linux kernel internals and operating-system
 
 ```text
 container-runtime-process-isolation/
-├── src/                # Source files
-├── include/            # Header files
-├── cmake/              # CMake modules
-├── config/             # Sample configuration files
+├── src/
+├── include/
+├── cmake/
+├── config/
 ├── CMakeLists.txt
 ├── README.md
 └── plan.md
-````
+```
 
 ---
 
 ## ⚙️ Prerequisites
 
-* Linux (Ubuntu 22.04+ recommended)
-* g++
-* CMake
-* make
-* Root privileges
-* Linux kernel with cgroups v2 enabled
-
----
+- Linux (Ubuntu 22.04+ recommended)
+- g++
+- CMake
+- make
+- Root privileges
+- Linux kernel with cgroups v2 enabled
 
 ## 🔨 Build
 
