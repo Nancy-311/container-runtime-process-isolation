@@ -1,4 +1,9 @@
-````markdown
+![Language](https://img.shields.io/badge/C%2B%2B-17-blue)
+![Platform](https://img.shields.io/badge/Platform-Linux-green)
+![Build](https://img.shields.io/badge/Build-CMake-orange)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+
+
 # Container Runtime Process Isolation
 
 A lightweight container runtime built in **C++17** for Linux using **Linux Namespaces** and **cgroups v2**. This project demonstrates how operating-system level virtualization works by creating isolated execution environments with configurable resource limits.
@@ -179,5 +184,4 @@ This project is intended for educational and learning purposes.
 
 GitHub: https://github.com/Nancy-311
 
-```
-```
+
